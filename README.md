@@ -1,4 +1,8 @@
 # nlp_yugi
 
 db usado:
-https://www.kaggle.com/datasets/thedevastator/yu-gi-oh-dataset
+http://yugiohprices.com/
+
+código:
+Classificador.ipymb
+DB-Getter.ipymb
